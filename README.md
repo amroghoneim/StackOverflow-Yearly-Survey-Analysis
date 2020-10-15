@@ -24,7 +24,7 @@ All relevant code and analysis is contained in the notebook above. The notebook 
 cells and comments to clearly separate and explain each step.
 
 ## Results
-The main findings can be found at this [post]().
+The main findings can be found at this [post](https://amroghoneim.medium.com/three-things-you-need-to-know-if-you-want-to-become-a-developer-d88fab0c0e33).
 
 ## Licensing, Authors, Acknowledgements
 All data is obtained from StackOverflow. You can find the data [here](https://insights.stackoverflow.com/survey).
