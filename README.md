@@ -13,9 +13,10 @@ StackOverflow conducts yearly surveys that contain important information regardi
 everything coding and developers all around the world. I was interested in using this data,
 specifically from 2016-2020 to better understand:
 
-- Programming languages trend
-- Job Satisfaction trend
-- Salary trend
+- What the are most important languages to learn?
+- Will they be satisfied in this field?
+- What is the expected median salary?
+- What are the main predictors of salary?
 
 In addition to understanding best predictors of salary
 
