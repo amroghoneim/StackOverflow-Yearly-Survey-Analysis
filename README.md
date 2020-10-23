@@ -18,8 +18,6 @@ specifically from 2016-2020 to better understand:
 - What is the expected median salary?
 - What are the main predictors of salary?
 
-In addition to understanding best predictors of salary
-
 ## File Descriptions
 All relevant code and analysis is contained in the notebook above. The notebook also contains markdown
 cells and comments to clearly separate and explain each step.
