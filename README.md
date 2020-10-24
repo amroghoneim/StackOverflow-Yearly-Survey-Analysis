@@ -11,7 +11,7 @@ libraries needed:
 ## Project Motivation
 StackOverflow conducts yearly surveys that contain important information regarding <br>
 everything coding and developers all around the world. I was interested in using this data,
-specifically from 2016-2020 to better understand:
+specifically from 2016-2020 to help people who want to become developers better understand:
 
 - What the are most important languages to learn?
 - Will they be satisfied in this field?
